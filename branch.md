@@ -11,4 +11,4 @@
 - `git checkout <commit>` или `git switch --detach <commit|branch>` — переместить HEAD на коммит, причем получится detached HEAD
 - `git checkout <branch>`или `git switch <branch>` — переместить HEAD на ветку
 - `git checkout -b <new_branch>` или `git switch -c <new_branch>` — создать ветку и перейти на нее
-- `git reset --hard <commit>` — переместить HEAD и текущую ветку на `<commit>`git a
+- `git reset --hard <commit>` — переместить HEAD и текущую ветку на `<commit>`
